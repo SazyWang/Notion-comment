@@ -1,2 +1,2 @@
 # Notion-comment
-用来存储Notion的评论留言
+用来存储hexo博客的评论
